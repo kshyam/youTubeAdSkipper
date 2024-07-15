@@ -43,7 +43,7 @@ Download the Chrome extention https://github.com/kshyam/youTubeAdSkipper/archive
 
 1.  Navigate to YouTube and play a video that has ads to see if the extension is working. Ads should be automatically skipped.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EkOwi7vvGtE?si=YUBjMG45GRPx5HKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Whatch Video https://www.youtube.com/embed/EkOwi7vvGtE?si=YUBjMG45GRPx5HKB 
 
 
 ### Summary
